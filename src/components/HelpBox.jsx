@@ -10,7 +10,7 @@ function HelpBox({ title, text }) {
     </article>
   );
 }
-// imp topices
+// imp topices were
 HelpBox.propTypes = {
   title: string,
   text: string,
